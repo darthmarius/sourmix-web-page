@@ -1,0 +1,71 @@
+
+body{
+    background: rgb(0, 88, 0);
+}
+ header{
+    background: green;
+    padding: 05px;  
+}
+
+header .srmxlogo {
+    background-image: url(IMAGENES/sourmix\ white.png);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    text-indent: -9090px;
+    position: relative;
+    display: inline-block;
+    height: 55px;
+    top: -15px;
+    left: 00px;
+    width: 150px;
+
+}
+header .fblogo a{
+    background-image:url(IMAGENES/Fblogo3.png); 
+    background-size: 35px;
+    background-repeat: no-repeat;
+    text-indent: -9999px; 
+   
+    display: inline-block;
+    height: 55px;
+    bottom: 00;
+    top: -25px;
+    left: 150px;
+    width: 40px;
+}
+ul li{
+    display: inline-flex;
+    flex-direction: row;
+    margin: auto;
+    padding: 5px;
+}
+
+section{
+    background: rgb(29, 196, 29);
+    color:green;
+    height:500px
+   
+
+   
+    
+
+
+}
+div{
+    background:greenyellow;
+    width: 300px;
+    display: inline-block;
+    
+    margin: auto;
+   
+    
+}
+.logo a{
+    background-image: url("IMAGENES/MARTP.jpg");
+    background-size: 300px;
+    display: inline-block;
+    height: 300px;
+    position: relative;
+    text-indent: -99999px;
+    width: 300px;
+}
